@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\bin\Debug\net6.0\CalculoFiguras.exe
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\bin\Debug\net6.0\CalculoFiguras.deps.json
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\bin\Debug\net6.0\CalculoFiguras.runtimeconfig.json
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\bin\Debug\net6.0\CalculoFiguras.dll
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\bin\Debug\net6.0\CalculoFiguras.pdb
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\obj\Debug\net6.0\CalculoFiguras.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\obj\Debug\net6.0\CalculoFiguras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\obj\Debug\net6.0\CalculoFiguras.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\obj\Debug\net6.0\CalculoFiguras.AssemblyInfo.cs
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\obj\Debug\net6.0\CalculoFiguras.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\obj\Debug\net6.0\CalculoFiguras.dll
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\obj\Debug\net6.0\refint\CalculoFiguras.dll
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\obj\Debug\net6.0\CalculoFiguras.pdb
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\obj\Debug\net6.0\CalculoFiguras.genruntimeconfig.cache
+C:\Users\vinic\Documents\curso_C#\CalculoFiguras\CalculoFiguras\obj\Debug\net6.0\ref\CalculoFiguras.dll
